@@ -5,7 +5,7 @@ This is a chatbot project for a jewellery. The idea is to attend customers when 
 - Replace a battery
 - ...
 
-We created the **events** and the **entities** folder in which there are the different topics we are going to duscuss with our customer.
+We created the **intents** foler, where we set up the most common situations we are going to deal with our customers, and the **entities** folder, in which there are the different topics we are going to duscuss with our customer.
 It is important to specify that there are some entities set as "required" so the customer will be asked about them in case the information is not provided.
 
 For example:
