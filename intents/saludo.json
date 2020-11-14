@@ -1,0 +1,57 @@
+{
+  "id": "cf9e2da2-e4fe-40f6-8623-08e181e3bd0a",
+  "name": "saludo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcacc8d1-1bd6-438d-b235-d34f67989946",
+          "name": "saludo",
+          "required": true,
+          "dataType": "@saludo",
+          "value": "$saludo",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Hola, ¿dígame?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "$saludo ¿en qué le puedo ayudar?",
+            "$saludo ¿qué desea?",
+            "$saludo ¿en qué le puedo ayudar?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

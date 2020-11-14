@@ -1,0 +1,239 @@
+[
+  {
+    "id": "3324688d-08b6-4d9d-8e50-b4fddff84321",
+    "data": [
+      {
+        "text": "hola",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7602de5a-0eb3-495c-ab10-ffe42faa208a",
+    "data": [
+      {
+        "text": "buenas",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9b3ae2fa-3953-4f67-800b-7fac0f435cd0",
+    "data": [
+      {
+        "text": "alo",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f22325b2-a493-4164-8f38-8f2b64fab5f7",
+    "data": [
+      {
+        "text": "buenas tardes",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8f0bd1c1-3c1c-4d86-b0c6-05e7a219f865",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "53f48964-c198-41fa-8434-70055bbe68ec",
+    "data": [
+      {
+        "text": "holaç",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e48507fb-63f7-492a-b47d-bb50d6ace73a",
+    "data": [
+      {
+        "text": "buenas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6fef62ae-547e-4e93-956a-c2ddaa41427b",
+    "data": [
+      {
+        "text": "buenas tardes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d851334c-f2ac-477f-a791-5cfb40fc5c0d",
+    "data": [
+      {
+        "text": "buenos días",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "19687a99-2a6b-4fe5-876f-d60d1dd558c1",
+    "data": [
+      {
+        "text": "Buenas noches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "15c73ccf-3336-4198-b4f4-a15ccd973133",
+    "data": [
+      {
+        "text": "Aló",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d482c35b-9bcf-42e0-8e48-59f340986036",
+    "data": [
+      {
+        "text": "Buenas",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "91f77094-46df-4b64-89d0-27edd8f3d2b0",
+    "data": [
+      {
+        "text": "Hola",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "13fc5f43-78d7-4885-81c9-292a4fa65c25",
+    "data": [
+      {
+        "text": "Hola",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "buenas tardes",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8be154b9-90c8-4f95-bb56-5cde66c94c7f",
+    "data": [
+      {
+        "text": "Hola",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "buenos días",
+        "meta": "@saludo",
+        "alias": "saludo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

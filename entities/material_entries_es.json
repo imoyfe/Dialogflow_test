@@ -1,0 +1,49 @@
+[
+  {
+    "value": "oro",
+    "synonyms": [
+      "oro",
+      "bañado en oro",
+      "oro blanco",
+      "oro rosa",
+      "oro negro"
+    ]
+  },
+  {
+    "value": "plata",
+    "synonyms": [
+      "plata",
+      "bañado en plata"
+    ]
+  },
+  {
+    "value": "bronce",
+    "synonyms": [
+      "bronce"
+    ]
+  },
+  {
+    "value": "latón",
+    "synonyms": [
+      "latón"
+    ]
+  },
+  {
+    "value": "cobre",
+    "synonyms": [
+      "cobre"
+    ]
+  },
+  {
+    "value": "acero",
+    "synonyms": [
+      "acero"
+    ]
+  },
+  {
+    "value": "cuero",
+    "synonyms": [
+      "cuero"
+    ]
+  }
+]

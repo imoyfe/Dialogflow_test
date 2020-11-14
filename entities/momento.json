@@ -1,0 +1,9 @@
+{
+  "id": "f2647b2e-4360-4561-a6ba-4b78b4308150",
+  "name": "momento",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

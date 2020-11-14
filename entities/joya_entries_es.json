@@ -1,0 +1,42 @@
+[
+  {
+    "value": "reloj",
+    "synonyms": [
+      "reloj"
+    ]
+  },
+  {
+    "value": "pulsera",
+    "synonyms": [
+      "pulsera"
+    ]
+  },
+  {
+    "value": "pendientes",
+    "synonyms": [
+      "pendientes",
+      "pendiente"
+    ]
+  },
+  {
+    "value": "collar",
+    "synonyms": [
+      "collar",
+      "colgante",
+      "gargantilla"
+    ]
+  },
+  {
+    "value": "alianza",
+    "synonyms": [
+      "alianza",
+      "anillo"
+    ]
+  },
+  {
+    "value": "cadena",
+    "synonyms": [
+      "cadena"
+    ]
+  }
+]

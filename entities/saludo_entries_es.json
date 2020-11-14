@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Hola",
+    "synonyms": [
+      "Hola",
+      "Aló",
+      "Buenas"
+    ]
+  },
+  {
+    "value": "Buenas tardes",
+    "synonyms": [
+      "Buenas"
+    ]
+  },
+  {
+    "value": "Buenos días",
+    "synonyms": [
+      "Buenos días"
+    ]
+  },
+  {
+    "value": "Buenas noches",
+    "synonyms": [
+      "Buenas noches"
+    ]
+  }
+]

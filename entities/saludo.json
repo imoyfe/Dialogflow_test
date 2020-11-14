@@ -1,0 +1,9 @@
+{
+  "id": "d4385f76-4782-481a-b742-54b9c768eb69",
+  "name": "saludo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

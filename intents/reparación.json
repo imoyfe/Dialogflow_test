@@ -1,0 +1,228 @@
+{
+  "id": "263f0136-49a2-40ff-af82-8ca857e1a96e",
+  "name": "reparación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "joya_check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55281b0e-16d7-4627-834d-632642fafbb6",
+          "name": "joya",
+          "required": true,
+          "dataType": "@joya",
+          "value": "$joya",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Podría decirme de qué joya se trata?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué necesita arreglar?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué necesita reparar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82820ff9-77ad-4cd6-a8fa-f0dde60bb29a",
+          "name": "material",
+          "required": false,
+          "dataType": "@material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fa90b0fa-dbe4-4c30-9d3e-ceb197e4e78c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "59332fb7-b94a-432e-b388-2fabbede4b89",
+          "name": "piezas",
+          "required": true,
+          "dataType": "@piezas",
+          "value": "$piezas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Podría decirme de qué pieza se trata?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2052ea6f-cb81-42c5-aa00-36e5e2134bfb",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Entiendo, ¿qué día le iría bien pasarse?"
+            },
+            {
+              "lang": "es",
+              "value": "Entiendo, ¿cuándo podrá acercarse a la tienda?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a37e8720-8a48-4918-b794-69d433169c61",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿y sobre qué hora se pasaría?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "70a4ef5d-6989-4741-8cb9-8b528a156c27",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Por la mañana o por la tarde?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4ddad134-11ea-46b0-b58f-09765ad17a59",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Bien, ¿cómo se llama?"
+            },
+            {
+              "lang": "es",
+              "value": "Ok, ¿me da su nombre, por favor?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4f41bc03-2c4d-441d-a7d1-35e6e50f1707",
+          "name": "last-name",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Un apellido por favor?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "05c0600a-1c62-4fbb-9589-a8407f629794",
+          "name": "saludo",
+          "required": false,
+          "dataType": "@saludo",
+          "value": "$saludo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Perfecto $person, nos vemos $date-period entonces."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

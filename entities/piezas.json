@@ -1,0 +1,9 @@
+{
+  "id": "e73180a4-7c0c-4a98-ac51-088bf298942c",
+  "name": "piezas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

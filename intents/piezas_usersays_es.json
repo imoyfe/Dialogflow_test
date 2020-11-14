@@ -1,0 +1,147 @@
+[
+  {
+    "id": "ab9cd9fa-1d89-4ca2-b389-d72c9f1f32a9",
+    "data": [
+      {
+        "text": "necesito cambiar una pila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2f9642e8-eb8e-46d2-be98-5e3e33d37579",
+    "data": [
+      {
+        "text": "necesito una pila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1b0bca43-f644-4115-8c2c-78e0632037ea",
+    "data": [
+      {
+        "text": "un cierre, se ha partido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e81fda7f-ae74-4105-a735-fd52775345a1",
+    "data": [
+      {
+        "text": "una pila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "69d693cb-5361-40f8-9bbe-163a63158f0f",
+    "data": [
+      {
+        "text": "cambiar pila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8c44bfea-2713-48b9-9efe-0c0d2598e47a",
+    "data": [
+      {
+        "text": "pila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a1949278-5958-44d8-a6fe-3f2bbc1e1d47",
+    "data": [
+      {
+        "text": "la pila no va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c52d51d-8d43-40e3-b3f7-6163f7cb54d4",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "reloj",
+        "meta": "@joya",
+        "alias": "joya",
+        "userDefined": true
+      },
+      {
+        "text": " se ",
+        "userDefined": false
+      },
+      {
+        "text": "ha",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quedado sin pilas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "11d5c5f2-9403-4b8c-9138-dcc1a187eb15",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "una pila",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nueva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
