@@ -1,6 +1,6 @@
 ### In progress...
 
-This is a Dialogflow[https://dialogflow.cloud.google.com/] chatbot project for a jewellery. The idea is to attend customers when willing to confirm or schedule a visit for different purposes:
+This is a [Dialogflow](https://dialogflow.cloud.google.com/) chatbot project for a jewellery. The idea is to attend customers when willing to confirm or schedule a visit for different purposes:
 - Repair a piece of a jewel
 - Replace a battery
 - ...
